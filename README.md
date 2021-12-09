@@ -9,9 +9,7 @@ Glimpse of the Application:
 
 ![ScreenShot](/SS/Screenshot%20from%202021-12-09%2023-01-25.png)
 
-![ScreenShot](/SS/Screenshot%20from%202021-12-09%2023-01-25.png)
-
-![ScreenShot](/SS/Screenshot%20from%202021-12-09%2023-01-25.png)
+![ScreenShot](/SS/Screenshot%20from%202021-12-09%2023-01-44.png)
 
 ![ScreenShot](/SS/Screenshot%20from%202021-12-09%2023-02-03.png)
 
