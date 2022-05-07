@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'i8(+q181d@9$h6d1dm6g-kd4t9*kge
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [" https://mozietyform.herokuapp.com/", "127.0.0.1"]
 
 
 # Application definition
