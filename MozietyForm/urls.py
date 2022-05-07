@@ -4,7 +4,7 @@ from .views import register_view
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns 
 
 urlpatterns = [
-    path('',register_view)
+    path('/form',register_view)
 ]
 
 urlpatterns += staticfiles_urlpatterns()
