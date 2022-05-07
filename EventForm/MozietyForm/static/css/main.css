@@ -6,9 +6,9 @@
   
   body {
     font-family: 'Nunito', sans-serif;
-    color: #2B94AE;
+    color: #554fc6;
     font-weight: 100;
-    
+    background-color: #554fc6;
   }
   
   form {
@@ -70,7 +70,7 @@
     font-style: normal;
     border-radius: 5px;
     width: 100%;
-    border: 1px solid #38CC89;
+    border: 1px solid #544EC6;
     border-width: 1px 1px 3px;
     box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
     margin-bottom: 10px;
