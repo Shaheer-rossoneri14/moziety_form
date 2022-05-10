@@ -1,5 +1,6 @@
 # Moziety Form
 **An Open Source replacement for Google forms to use for Event Registration and Feedback form.**
+
 Live Link: https://mozietyform.herokuapp.com/
 
 Glimpse of the Application:
