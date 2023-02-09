@@ -1,7 +1,7 @@
 # Moziety Form
-**An Open Source replacement for Google forms to use for Event Registration and Feedback form.**
+A robust event registration platform designed to serve as an alternative to Google forms, specifically tailored to the needs of college clubs. Utilizing the powerful combination of Python-Django and SQLite, this solution provides a flexible and scalable solution for managing event registrations, with features such as custom form fields and real-time updates. With its user-friendly interface and versatile capabilities, this platform streamlines the process of event registration and management, making it an ideal choice for college clubs and organizations.
 
-Live Link: https://mozietyform.herokuapp.com/
+
 
 Glimpse of the Application:
 
